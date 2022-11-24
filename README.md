@@ -19,6 +19,6 @@ And it a bit like the path of learning programming, never end 🌱
 
 ## Github Status
 
-<p>&nbsp;<img align="left" height="170"  src="https://github-readme-stats.vercel.app/api?username=kim716&show_icons=true&theme=gruvbox&locale=en" alt="kim716" /></p>
+<p>&nbsp;<img align="center" height="180"  src="https://github-readme-stats.vercel.app/api?username=kim716&show_icons=true&theme=gruvbox&locale=en" alt="kim716" /></p>
 
-<p><img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim716&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kim716" /></p>
+<p><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim716&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kim716" /></p>
