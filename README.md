@@ -11,7 +11,7 @@ And it a bit like the path of learning programming, never end 🌱
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim716&label=Profile%20views&color=0e75b6&style=flat" alt="kim716" /> </p>
 
-- 🧠 I’m currently learning **HTML, CSS, JavaScript**
+- 🧠 I’m currently learning **JavaScript, SASS, React**
 - 📝 The words that inspired me, "Do, Go to be a full expression of yourself. Do, Go to give."
 - 📮 Reach me at yichen.hsieh_c7_alumni@teach4taiwan.org
 
